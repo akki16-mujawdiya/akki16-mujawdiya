@@ -7,13 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Student;Computer+Vision+Developer;Building+Intelligent+Systems;Future+AI+Engineer;Python+%7C+OpenCV+%7C+ML+%7C+GenAI" />
 </p>
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akki16-mujawdiya&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akki16-mujawdiya&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 # Hi, I'm Akki Mujawdiya 👋
 
@@ -69,10 +63,12 @@ Always learning and building practical AI projects 🚀
 
 
 
-![Akki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akki16-mujawdiya&show_icons=true&theme=tokyonight)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akki16-mujawdiya&layout=compact&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=akki16-mujawdiya&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akki16-mujawdiya&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akki16-mujawdiya&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=akki16-mujawdiya&color=blue)
