@@ -49,3 +49,13 @@ Python | Machine Learning | OpenCV | Pandas | NumPy | Scikit-Learn | Git | GitHu
 * GitHub: https://github.com/akki16-mujawdiya
 
 Always learning and building practical AI projects 🚀
+
+
+
+![Akki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akki16-mujawdiya&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akki16-mujawdiya&layout=compact&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=akki16-mujawdiya&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=akki16-mujawdiya&color=blue)
