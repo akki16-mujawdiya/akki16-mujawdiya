@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Akki%20Mujawdiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=60"/>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Student;Computer+Vision+Developer;Building+Intelligent+Systems;Future+AI+Engineer;Python+%7C+OpenCV+%7C+ML+%7C+GenAI" />
+</p>
+
+
 # Hi, I'm Akki Mujawdiya 👋
 
 🎓 AI & Machine Learning Student
